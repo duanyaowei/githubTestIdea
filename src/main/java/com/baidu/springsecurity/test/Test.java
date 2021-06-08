@@ -5,7 +5,9 @@ package com.baidu.springsecurity.test;
  */
 public class Test {
 
+
     public void master(){
         System.out.println("这是一个master方法..");
     }
+
 }
