@@ -15,4 +15,8 @@ public class Test {
     public void push(){
         System.out.println("这是测试push到远程仓库是否成功的方法...");
     }
+    
+    public void pull(){
+        System.out.println("这是测试pull到本地仓库是否成功的方法...");
+    }
 }
